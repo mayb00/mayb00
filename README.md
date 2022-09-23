@@ -1,5 +1,5 @@
-## Hi Kim Bogyung 👋
- i'm.....
+## Kim Bogyung
+# I'm.... 
 <!--
 **mayb00/mayb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
